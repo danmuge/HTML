@@ -25,6 +25,14 @@
   border: 1px solid;
 }
 
+.wrtie-num{
+  margin-left: 30%;
+}
+
+.Top-write{
+    margin-left: 9px;
+}
+
 .write {
   margin: 5%;
   border-bottom: 1px solid;
@@ -38,15 +46,9 @@
 
 }
 .pri-write{
-  border: 2px solid;width: 98%; height: 600px;margin-left: 5px;overflow: auto;
-}
-
-.wrtie-num{
-  margin-left: 30%;
-}
-
-.Top-write{
-    margin-left: 9px;
+  border: 2px solid;width: 98%;
+  height: 600px;margin-left: 5px;
+  overflow: auto;
 }
 
 .box {
